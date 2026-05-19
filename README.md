@@ -117,6 +117,32 @@ It also showcases practical applications of AI in:
 
 ---
 
+# Project Screenshots
+
+## AI-Generated Cafe Website Mockup
+
+### Hero Section
+
+![Hero Section](screenshots/lovable_hero.png)
+
+---
+
+### Testimonials Section
+
+![Testimonials Section](screenshots/lovable_testimonials.png)
+
+---
+
+### Contact Section
+
+![Contact Section](screenshots/lovable_contact.png)
+
+---
+
+## Tone Adaptation Examples
+
+![Tone Adaptation](screenshots/tone_adaptation.png)
+
 # Author
 
 Mahek Sultana
